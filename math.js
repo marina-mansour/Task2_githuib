@@ -7,6 +7,7 @@ function display() {
 }
 
 function mulFn(x, y) {
+  console.log("hiiii vero");
   return x * y;
 }
 function add(a, b) {
